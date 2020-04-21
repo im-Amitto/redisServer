@@ -62,4 +62,5 @@ Currently their are a total of 4 workers are placed, out of which 3 are responsi
 Also using channels can be proved beneficial when their is high system load and you wanna prioritize a specific type of operation. 
 
 ## Demo
+### Click to play
 [![Watch the video](https://i.ibb.co/30BfspP/Screenshot-from-2020-04-21-07-18-36.png)](https://www.loom.com/share/6b1acc97401149e498d19dc1678637f6)
